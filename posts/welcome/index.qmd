@@ -1,0 +1,10 @@
+---
+title: "Welcome To My Blog"
+author: "Noah Gruba"
+date: "2024-08-23"
+categories: [Me]
+---
+
+Welcome to my blog my name is Noah!
+
+![](headshot.jfif)
